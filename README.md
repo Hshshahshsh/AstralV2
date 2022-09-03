@@ -1,7 +1,7 @@
 Astral - 2.0
 
 Loadstring:
-Soon!
+I'll make one if I'm not lazy
 
 Changelog:
 None yet.
